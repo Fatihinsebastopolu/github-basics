@@ -39,3 +39,5 @@ This is a very helpful command in showing you which files are and aren't staged.
 5. Stage the files and bundle them in a commit.
 
 [Next: Push your local changes to GitHub](../part5-pushing_changes_to_github)
+
+Code Changed for Testing purposes
